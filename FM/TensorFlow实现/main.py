@@ -6,7 +6,7 @@ K = tf.keras.backend
 
 # 自定义FM的二阶交叉层
 class FMLayer(tf.keras.layers.Layer):
-    # FM的k取4（演示方便）
+    # FM的k取4
     def __init__(self, input_dim, output_dim=4, **kwargs):
         self.input_dim = input_dim
         self.output_dim = output_dim
