@@ -1,4 +1,4 @@
-# Code-For-Recommendation
+# Code-For-Recommendation-Paper
 推荐系统领域经典论文代码复现。
 - FM  
 Python手动实现  
